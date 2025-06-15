@@ -37,5 +37,4 @@ a tabela deve conter três colunas, sendo a última intitulada ou contendo os **
 
 ## autor
 
-**daniel araujo leal**  
-funcionário da **brnx**
+**daniel araujo leal**
